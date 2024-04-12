@@ -1,0 +1,2001 @@
+@media screen and (max-width: 1600px) {
+
+}
+@media screen and (max-width: 1400px) {
+   
+.menu__item {
+    margin-right: 5.5rem;
+}
+.home__title{
+    font-size: 13rem;
+}
+.hm{
+    margin: -21rem 0 0 85rem;
+}
+.since{
+    width: 23rem;
+}
+.since__text{
+    font-size: 2rem;
+}
+.since__icon{
+    width: 30px;
+    height: 31px;
+}
+.home__description{
+    margin: 8rem 0rem 0rem 85rem
+}
+.home__button{
+    margin: -22.4rem 122rem;
+}
+}
+
+
+@media screen and (max-width: 1350px) {
+.home__button{
+    margin: -24rem 118rem;
+}
+.hm{
+    margin: -19rem 0 0 80rem;
+}
+.home__description{
+    margin: 8rem 0rem 0rem 80rem;
+}
+.home__title{
+    font-size: 15rem;
+}
+.home__tags{
+    font-size: 1.9rem;
+    margin-top: 6rem;
+}
+.main{
+    margin-top: 42rem;
+}
+.rooms-and-apartments-contents__img1 {
+    width: 52rem;
+    height: 71rem;
+}
+.rooms-and-apartments-contents__right-label{
+    top: 58rem;
+    left: 40rem;
+}
+.facilities-right__img {
+    width: 100%;
+    height: 30%;
+}
+.facilities-right__label {
+    margin-top: -28rem;
+    margin-left: -5rem;
+}
+.facilities-places__heading-number {
+    margin-left: -15rem;
+}
+.ml--22 {
+    margin-left: -12rem !important;
+}
+.ml--18 {
+    margin-left: -19rem !important;
+}
+.best-apartments__heading{
+    margin-top: -68rem;
+    margin-bottom: 9rem;
+}
+.our-gallery{
+    margin-top: 40rem;
+}
+.our-gallery-left, .our-gallery-right {
+    margin-top: 50rem;
+}
+
+.our-gallery-right__img1 {
+    width: 100%;
+    height: 45%;
+}
+.our-gallery-left-img1 {
+    width: 100%;
+    height: 30%;
+}
+.our-gallery-right__img2 {
+    width: 100%;
+    height: 30%;
+}
+.our-gallery-left-img2 {
+    width: 100%;
+    height: 40%;
+}
+
+
+
+.get-in-touch__title{
+    font-size: 17rem;
+}
+.get-in-touch__title-touch{
+    margin-left: 57rem;
+}
+.facilities-left__img {
+    height: 30%;
+}
+}
+
+
+@media screen and (max-width: 1300px) {
+    .home__button{
+        margin: -21.5rem 115rem;
+    }
+    .hm{
+        margin: -19rem 0 0 80rem;
+    }
+    .since{
+        width: 22rem;
+        height: 6rem;
+    }
+    .since__text{
+        font-size: 1.9rem;
+    }
+    .home__description{
+        margin: 6rem 0rem 0rem 80rem;
+    }
+    .home__title{
+        font-size: 15rem;
+    }
+    .home__tags{
+        font-size: 1.9rem;
+        margin-top: 6rem;
+    }
+    .best-apartments__heading{
+        margin-top: -63rem;
+        margin-bottom: 8rem;
+        font-size: 9rem;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 51rem;
+    }
+    .facilities-right__img {
+        width: 100%;
+        height: 26%;
+    }
+    .facilities-left__img {
+        height: 28%;
+        width: 110%;
+    }
+}
+
+
+@media screen and (max-width: 1275px) {
+.home__title{
+    font-size: 12rem;
+}
+.hm {
+    margin: -19rem 0 0 76rem;
+}
+.since{
+    width: 20rem;
+    height: 6rem;
+}
+.home__description{
+    margin: 6rem 0rem 0rem 76rem;
+}
+.home__button{
+    margin: -22rem 110rem;
+}
+}
+
+
+
+@media screen and (max-width: 1200px) {
+.menu__item {
+    margin-right: 3.5rem;
+}  
+.home__button{
+    margin: -20.4rem 62rem;
+} 
+.main{
+    margin-top: 37rem;
+}
+.rooms-and-apartments-contents__img1 {
+    width: 45rem;
+    height: 64rem;
+    margin-top: 6.5rem;
+
+}
+.rooms-and-apartments-contents__right-label{
+    top: 47rem;
+    left: 33rem;
+}
+.facilities-right__label {
+    margin-top: -25rem;
+    margin-left: -4rem;
+}
+.facilities-left__img {
+    height: 25%;
+}
+.best-apartments__heading{
+    margin-top: -56rem;
+}
+.our-gallery{
+    margin-top: 30rem;
+}
+.our-gallery-left, .our-gallery-right {
+    margin-top: 53rem;
+}
+.get-in-touch__title{
+    font-size: 15rem;
+}
+.get-in-touch__title-touch {
+    margin-left: 49rem;
+    margin-top: 22rem;
+}
+.get-in-touch__find__links{
+    width: 50%;
+}
+.get-in-touch__find {
+    margin-top: 20rem;
+}
+.footer__content-aboutus, .footer__content-news, 
+.footer__content-social {
+    width: 20%;
+}
+}
+@media screen and (max-width: 1155px) {
+    .aboutus__button{
+    margin-top: -24rem;
+    margin-left: 69rem;
+    }
+    .aboutus-contents-left {
+        margin-top: 11rem;
+        margin-right: 8rem;
+    }
+    .aboutus__img1 {
+        max-width: 388px;
+    }
+    .aboutus-contents-right__label {
+        position: absolute;
+        top: 37rem;
+        right: 40rem;
+    }
+    .aboutus__button-text__span {
+        right: 6rem;
+    }
+    .aboutus__button-arrow {
+        right: 6.2rem;
+    }
+    .aboutus-contents-right__img2{
+        margin-left: 8rem;
+    }
+    .rooms-and-apartments-contents__img1 {
+        width: 40rem;
+        height: 59rem;
+        margin-top: 11rem;
+
+    }
+    .rooms-and-apartments-contents__right-label{
+    top: 45rem;
+    left: 27rem;
+    transform: scale(0.8);
+    }
+    .facilities-places__heading-number {
+        margin-left: -5rem;
+    }
+    .ml--22 {
+        margin-left: -1rem !important;
+    }
+    .ml--18 {
+        margin-left: -8rem !important;
+    }
+    .get-in-touch__title{
+        font-size: 13rem;
+    }
+    .get-in-touch__title-touch {
+        margin-left: 40rem;
+        margin-top: 17rem;
+    }
+    
+
+}
+@media screen and (max-width: 1100px) {
+    .hm, .since{
+        display: none;
+    }
+    .home__button{
+        margin: -37rem 67rem;
+    } 
+    .home__button-border{
+        width: 50px;
+        height: 50px;
+    }
+    .home__button-arrow{
+        width: 15px;
+        height: 9px;
+        top: 2.3rem;
+        left: 1.73rem;
+    }
+    .home__title{
+        margin-left: 0;
+        font-size: 12rem;
+        margin-top: -3rem;
+        margin-bottom: 9rem;
+    }
+    .home__description{
+        margin: -20rem 0rem 27rem 80rem;
+        font-size: 1.3rem;
+        width: 21rem;
+    }
+    .home__tags{
+        font-size: 1.5rem;
+        margin-top: -9rem;
+        margin-bottom: 9rem;
+        margin-left: 1rem;
+    }
+    .home__dashboard-booking__link{
+        font-size: 1.1rem;
+    }
+    .main{
+        margin-top: 10rem;
+    }
+    .rooms-and-apartments-contents__img1 {
+        width: 38rem;
+        height: 57rem;
+        margin-top: 7rem;
+    }
+    .rooms-and-apartments-contents__right-label{
+        top: 33rem;
+        left: 25rem;
+    }
+    /* .aboutus-contents-left__description {
+
+    } */
+    .facilities-left__img {
+        height: 23%;
+    }
+    .facilities-right__label {
+        margin-top: -24rem;
+        margin-left: -4rem;
+    }
+    .facilities-right__img {
+        width: 100%;
+        height: 22%;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 54rem;
+    }
+    }
+
+@media screen and (max-width: 1078px){
+    .home__description{
+        margin-left: 81rem;
+    }
+    .home__button{
+        margin: -37rem 64.9rem;
+    }
+
+}
+
+@media screen and (max-width: 1058px){
+    .home__title{
+        font-size: 11rem;
+    }
+    .home__description{
+        margin-left: 74rem;
+    }
+    .home__button{
+        margin: -37rem 59rem;
+    } 
+    .home__button-border{
+        width: 45px;
+        height: 45px;
+    }
+    .home__button-arrow{
+        width: 15px;
+        height: 9px;
+        top: 2.1rem;
+        left: 1.56rem;
+    }
+    .home__dashboard-booking__link{
+        font-size: 1rem;
+    }
+    .rooms-and-apartments-contents__img1 {
+        width: 35rem;
+        height: 54rem;
+        margin-top: 10rem;
+    }
+    .get-in-touch__title{
+        font-size: 11rem;
+    }
+    .get-in-touch__title-touch {
+        margin-left: 32rem;
+        margin-top: 14rem;
+    }
+    .get-in-touch__svg {
+        margin-right: 11rem;
+        margin-top: -2rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .get-in-touch__find__link-rooms {
+        top: 9rem;
+    }
+    .rooms-and-apartments-contents__left-img2 {
+        display: none;
+    }
+    .rooms-and-apartments-contents__left-button__head-arrow {
+    /* top: 7rem; */
+    right: -9.5rem;
+    }
+    .rooms-and-apartments-contents__left-button__head-line {
+        right: -8.5rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin-top: -14rem;
+        margin-left: 12rem;
+    }
+    .rooms-and-apartments-contents__description{
+        max-width: 27rem;
+    }
+    .rooms-and-apartments-contents__left-button{
+        margin-top: 0;
+    }
+    .facilities-left{
+        flex-basis: auto;
+        position: static;
+    }
+    .facilities-left__text{
+        position: static;
+    }
+    .facilities-left__img{
+        position: static;
+        width: 102%;
+        height: 32%;
+    }
+    .facilities-mid{
+        flex-basis: auto;
+    }
+    .facilities-right__label{
+        margin: 26rem -45rem;
+    }
+    .facilities-right__img{
+        display: none;
+    }
+    .facilities-mid__title-heading{
+        font-size: 10rem;
+    }
+    .best-apartments__heading{
+        margin-top: -49rem;
+        margin-bottom: 8rem;
+        font-size: 9rem;
+    }
+    .our-gallery{
+        margin-top: 24rem;
+    }
+    .get-in-touch__find {
+        margin-top: 10rem;
+    }
+    .get-in-touch__find__link{
+        height: 9rem;
+        font-size: 1.1rem;
+    }
+.footer__content-aboutus, .footer__content-news, .footer__content-social {
+    width: 25%;
+}
+}
+
+@media screen and (max-width: 1006px) {
+    .aboutus__img1 {
+        max-width: 388px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+*{
+    cursor: default !important;
+}
+.container {
+    width: 95%;
+}
+.header {
+    margin-top: 1rem;
+}
+/* .menu{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: var(--primary-color);
+    z-index: 1;
+    transition: all 1s cubic-bezier(0.4, 0, 0.2, 1);    
+    height: 0;
+    overflow: hidden;
+    box-shadow: 0px 1px 8px -1px black;
+} */
+
+.nav {
+    box-shadow: none;
+    padding: 0.5rem 0rem;
+
+}
+.menu {
+    position: absolute;
+    top: -40rem;
+    right: 0;
+    left: 0;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: var(--primary-color);
+    z-index: 1;
+    transition: all 1s cubic-bezier(0.4, 0, 0.2, 1);
+    /* height: 0; */
+    padding: 10rem 0 5rem 0;
+    overflow: hidden;
+    box-shadow: 0px 1px 8px -1px black;
+}
+.menu--open{
+    /* height: 100%;  */
+    top: 0rem;
+}
+.menu__item{
+    margin: 0;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-family: 'Miracle';
+    font-weight: 100;
+    letter-spacing: 0.2rem;
+}    
+.nav__toggle-icon {
+    display: flex;
+    z-index: 1;
+    margin-right: 0.8rem;
+}
+.nav__number{
+    display: none;
+}
+.nav__title{
+    font-size: 3rem;
+}
+.home__title{
+    /* margin-top: -7rem; */
+    font-size: 9rem;
+}
+.home__description{
+    margin-left: 68rem;
+}
+.home__button{
+    margin: -37rem 52rem;
+}
+.home__button-border{
+    width: 40px;
+    height: 40px;
+}
+.home__button-arrow{
+    width: 14px;
+    height: 8.5px;
+    top: 1.8rem;
+    left: 1.23rem;
+}
+.home__dashboard{
+    margin-top: 48rem;;
+}
+.home__dashboard-booking__links{
+    width: 100%;
+}
+.home__dashboard-booking__link{
+    height: 10rem;
+}
+.home__dashboard-booking__link-rooms{
+    top: 10rem;
+}
+.main {
+    margin-top: 5rem;
+}
+.aboutus{
+    flex-wrap: wrap;
+    padding-top: 5rem;
+}
+.rooms-and-apartments {
+    padding-top: 10rem;
+    padding-bottom: 8rem;
+}
+.facilities {
+    padding-bottom: 10rem;
+}
+.facilities-places {
+    margin-top: 0rem;
+}
+.facilities-places__content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.facilities-places__content-right__img {
+    margin-top: 14rem;
+}
+.facilities-places__content-left-button {
+    transform: scale(0.8);
+}
+.translate {
+    transform: scale(0.8) !important;
+}
+.ml--22 {
+    margin-left: -2rem !important;
+}
+.ml--18 {
+    margin-left: -9rem !important;
+}
+.our-gallery {
+    margin-top: 15rem;
+}
+.our-gallery-mid-content__title {
+    font-size: 10rem;
+}
+.our-gallery-left, .our-gallery-right {
+    margin-top: 55rem;
+}
+.bank-hotel-animation {
+    font-size: 9rem;
+    margin-bottom: 8rem;
+}
+.get-in-touch {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+
+}
+.get-in-touch__find__links{
+    width: 60%;
+}
+.facilities-left__img {
+    /* height: 20%; */
+}
+.our-gallery-right__img1 {
+    width: 100%;
+    height: 35%;
+}
+.our-gallery-right__img2, .our-gallery-left-img1 {
+    width: 100%;
+    height: 25%;
+}
+.our-gallery-left-img2 {
+    width: 100%;
+    height: 30%;
+}
+}
+@media screen and (max-width: 930px) {
+    .home__description{
+        margin-left: 62rem;
+    }
+    .home__button{
+        margin: -37rem 49rem;
+    }
+    .best-apartments__heading{
+        margin-top: -45rem;
+        margin-bottom: 8rem;
+        font-size: 8rem;
+    }
+    .our-gallery {
+        /* margin-top: 0; */
+    }
+    
+    .get-in-touch__svg {
+        margin-right: 5rem;
+        margin-top: -2rem;
+    }
+    .facilities-left__img {
+        height: 28%;
+    }
+}
+@media screen and (max-width: 910px) {
+    .aboutus__img1 {
+        max-width: 345px;
+        height: 483px;
+    }
+    .aboutus-contents-left {
+        margin: 11rem auto 0 auto;
+    }
+    .aboutus-contents-left__heading {
+        margin-top: 14rem;
+    }
+    .aboutus-contents-right__label {
+        position: absolute;
+        top: 33rem;
+        right: 40rem;
+        width: 110px;
+        height: 113px;
+    }
+
+}
+@media screen and (max-width: 901px) {
+    /* .aboutus__img1{
+        margin: 5rem auto 0 auto;
+    } */
+    /* .aboutus-contents-left {
+        margin: -66rem auto 0 auto;
+    }    */
+    .aboutus-contents-right{
+        margin: 8rem auto 0 auto;
+    }
+    .aboutus__img1 {
+        margin: 5rem auto 0 auto;
+    }
+    .aboutus-contents-left {
+        margin: 8rem auto 0 auto;
+    }
+    .aboutus-contents-left__heading {
+        margin-top: 14rem;
+        text-align: center;
+    }
+    .aboutus-contents-left__description {
+        text-align: center;
+    }
+    .aboutus-contents-right__label{
+        top: 30rem;
+        right: 32rem;
+    }
+    .rooms-and-apartments__caption {
+        width: 41rem;
+        margin-top: -1rem;
+        margin-left: -32rem;
+    }
+    .facilities-mid__title-heading{
+        font-size: 9rem;
+    }
+
+}   
+@media screen and (max-width: 867px) {
+    .our-gallery-right__img1 {
+    width: 100%;
+    height: 30%;
+    }
+    .our-gallery-right__img2, .our-gallery-left-img1 {
+        width: 100%;
+        height: 20%;
+    }
+    .our-gallery-left-img2 {
+        width: 100%;
+        height: 30%;
+    }
+    .our-gallery-mid-content__img {
+        width: 100%;
+        height: 30%;
+    }
+    .home__mb-line{
+        display: block;
+    }
+    .home__description{
+        margin: 6rem auto 0rem auto;
+        text-align: center;
+        width: 49rem;     
+    }
+    .home__title{
+        text-align: center;
+        margin-top: -3rem;
+    }
+    .home__tags{
+        font-size: 1.5rem;
+        margin: -8rem auto 0rem auto;
+        width: 41rem;
+        text-align: center;
+    }
+    .home__button {
+        margin: -23rem auto -51rem 0rem;
+        width: 4.2rem;
+    }
+    .home__dashboard{
+        margin-top: 14rem;;
+    }
+    .aboutus__button {
+        width: 14rem;
+        margin: 4rem auto 0 auto;
+    }
+    .aboutus__img1{
+        margin: 14rem auto 0 auto;
+    }
+    .aboutus-contents-left {
+        margin: 17rem auto 0 auto;
+    }   
+    .aboutus-contents-right__img2{
+        margin-left: 0;
+    }
+    .aboutus-contents-right__label {
+        top: 39rem;
+        right: 31rem;
+    }
+    .rooms-and-apartments-contents__left{
+        margin: 50rem -24rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__left-button {
+        margin-top: -8rem;
+    }
+    .facilities-mid__title-heading{
+        font-size: 7rem;
+    }
+    .facilities-mid__title-heading__span {
+        margin-left: 14rem;
+    }
+    .facilities-mid__title-star {
+        margin: -5rem 0rem 17rem 6rem;
+    }
+    .facilities-contents {
+        gap: 4rem;
+    }
+    .facilities-right__label {
+        margin: 26rem -34rem;
+    }
+    .facilities-places__content-right__img {
+        margin-top: 20rem;
+    }
+    .facilities-places__heading-number,
+    .facilities-places__heading-text, .facilities-places__content-mid__number,
+     .facilities-places__content-mid__heading {
+        font-size: 4rem;
+    }
+    .facilities-places__heading-marker {
+        transform: scale(0.8);
+    }
+    .facilities-places__content-mid__number, .facilities-places__content-mid__heading {
+        font-size: 4rem;
+    }
+    .facilities-places__content-mid {
+        margin-left: 9rem;
+    }
+    .facilities-places {
+        margin-top: 6rem;
+    }
+    .facilities-left__img {
+        height: 31%;
+        width: 97%;
+    }
+    details[open] > summary .facilities-places__heading-marker {
+        transform: rotate(90deg) translateX(2.5rem) scale(.8);
+    }
+    .best-apartments__heading {
+        margin-top: -41rem;
+        margin-bottom: 8rem;
+        font-size: 6rem;
+        width: 35rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 9rem;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 54rem;
+    }
+    .bank-hotel-animation {
+        font-size: 8rem;
+        margin-bottom: 7rem;
+    }
+    .get-in-touch__title {
+        font-size: 9rem;
+    }
+    .get-in-touch__title-touch {
+        margin-left: 26rem;
+        margin-top: 11rem;
+    }
+    .footer__content-aboutus, .footer__content-news, .footer__content-social {
+        width: 30%;
+    }
+    
+}
+@media screen and (max-width: 780px) {
+    .divider {
+        /* margin-top: 0; */
+    }
+    .aboutus{
+        justify-content: center;
+        margin-bottom: 8rem;
+    }
+    .aboutus-contents-left__heading {
+        margin-top: 66rem;
+    }
+    .aboutus__img1 {
+        margin: 37rem auto 0 auto;
+    }
+    .aboutus-contents-left {
+        flex-basis: 100%;
+        margin-top: -72rem;
+    }
+    .aboutus-contents-left__title {
+        margin: 0 auto;
+        margin-top: 4rem;
+    }
+    .aboutus-contents-left__description {
+        text-align: center;
+        margin: 0 auto;
+    }
+    .aboutus-contents-right {
+        margin-top: 3rem;
+    }
+    .aboutus-contents-right__label {
+        top: 88rem;
+        right: 24rem;
+        transform: rotate(45deg);
+    }
+    .rooms-and-apartments-header{
+        flex-wrap: wrap;
+    }
+    .rooms-and-apartments__title{
+        margin: 0 auto;
+        font-size: 10rem;
+    }
+    .rooms-and-apartments__caption{
+        width: 69rem;
+        margin: 3rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents{
+        gap: 6rem;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -125rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__img1 {
+        width: 70%;
+        height: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: 118rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__heading{
+        margin-top: -26rem;
+        margin-left: 7rem;
+    }
+    .rooms-and-apartments-contents__description {
+        max-width: 33rem;
+        margin-left: 45rem;
+        margin-top: 12rem;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 38rem -24rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__left-button {
+        margin-top: 72rem;
+    }
+    .rooms-and-apartments-contents__right-label {
+        margin: -1rem 0rem;
+        transform: scale(0.6);
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text, .facilities-places__content-mid__number, .facilities-places__content-mid__heading {
+        font-size: 3rem;
+    }
+    .facilities-places__heading-marker {
+        transform: scale(0.7);
+    }
+    details[open] > summary .facilities-places__heading-marker {
+        transform: rotate(90deg) translateX(2.5rem) scale(.7);
+    }
+    .facilities-places__content {
+        gap: 3rem;
+    }
+    .facilities-places__content-right__img {
+        margin: 14rem auto;
+    }
+    .facilities-places {
+        margin-top: 0rem;
+    }
+    .ml--22 {
+        margin-left: -3rem !important;
+    }
+    .ml--18 {
+        margin-left: -7rem !important;
+    }
+    .best-apartments__heading {
+        margin-top: -37rem;
+        margin-bottom: 8rem;
+        font-size: 6rem;
+        width: 35rem;
+    }
+    .our-gallery {
+        margin-top: 0rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 8rem;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 53rem;
+    }
+    .our-gallery-mid-content__title {
+        margin: 0rem 0 4rem;
+    }
+    .bank-hotel-animation {
+        font-size: 7rem;
+        margin-bottom: 6rem;
+    }
+    .facilities-left__img {
+        height: 28%;
+    }
+    .our-gallery-right__img1 {
+        width: 100%;
+        height: 25%;
+    }
+    .our-gallery-right__img2, .our-gallery-left-img1 {
+        width: 100%;
+        height: 20%;
+    }
+    .our-gallery-left-img2 {
+        width: 100%;
+        height: 25%;
+    }
+    .our-gallery-mid-content__img {
+        width: 100%;
+        height: 25%;
+    }
+}
+       
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .home__dashboard-booking__links{
+        display: none;
+    }
+    .home__dashboard-booking__link-mb{
+        display: block;
+    }
+    .rooms-and-apartments__title{
+        font-size:  8rem;
+    }
+    .rooms-and-apartments-contents{
+        gap: 0;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 102rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__left-button {
+        margin-top: 0rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: -17rem auto 5rem auto;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -124rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__heading {
+        margin-top: 0rem;
+        margin-left: 8rem;
+    }
+    .facilities-right__label {
+        margin: 26rem -33rem;
+    }
+    .facilities-places__content-right__img {
+        width: 60%;
+        height: 100%;
+        margin: 5rem auto;
+    }
+    .facilities-left__img {
+        height: 28%;
+    }
+    /* .get-in-touch__title {
+        font-size: 7rem;
+    } */
+    .get-in-touch__title-touch {
+        margin-left: 20rem;
+        margin-top: 9rem;
+    }
+    .get-in-touch__find__links{
+        width: 70%;
+    }
+    .get-in-touch__find__link {
+        font-size: 1.1rem;
+    }
+}
+@media screen and (max-width: 762px) {
+    .rooms-and-apartments-contents__right {
+        margin: -117rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__heading {
+        margin-top: 0rem;
+        margin-left: 8rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: -20rem auto 5rem auto;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 102rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__description {
+        max-width: 45rem;
+        margin-left: 33rem;
+    }
+    .facilities-left__img {
+        height: 22%;
+    }
+}
+@media screen and (max-width: 761px) {
+    /* .rooms-and-apartments-contents__right {
+        margin: -131rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: 49rem auto 5rem auto;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 50rem -18rem 0rem 10rem;
+    } */
+    /* .rooms-and-apartments-contents__left-button{
+        margin-top: 65rem;
+        margin-bottom: -65rem;
+    } */
+    .rooms-and-apartments-contents__heading {
+        margin-top: 0rem;
+        margin-left: 0rem;
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text {
+        margin-left: 0rem;
+    }
+    .facilities-places__heading-marker__head-line {
+        width: 4rem;
+    }
+    .facilities-places__heading-marker {
+        margin-right: 3rem;
+    }
+    details[open] > summary .facilities-places__heading-marker__head-line {
+        width: 4rem;
+    }
+    details[open] > summary .facilities-places__heading-marker {
+        transform: rotate(90deg) translateX(1.5rem) scale(.7);
+    }
+    .facilities-places__heading-img {
+        height: 140px;
+        width: 140px;
+    }
+    .facilities-places {
+        margin-top: -4rem;
+    }
+    .ml--22 {
+        margin-left: 1rem !important;
+    }
+    .ml--18 {
+        margin-left: -3rem !important;
+    }
+    .best-apartments__heading {
+        margin-top: -35rem;
+        margin-bottom: 8rem;
+        font-size: 5rem;
+        width: 35rem;
+    }
+    .our-gallery {
+        height: 120rem;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 52.2rem;
+    }
+    .our-gallery-mid-content__description, .our-gallery-mid-content__caption {
+        font-size: 1.3rem;
+    }
+    .our-gallery-mid-content__caption {
+        margin-top: 3rem;
+    }
+    /* .get-in-touch__title {
+        font-size: 5.5rem;
+    } */
+    .get-in-touch__title-touch {
+        margin-left: 20rem;
+        margin-top: 9rem;
+    }
+    .get-in-touch__svg {
+        margin-right: 8rem;
+        margin-top: -4.4rem;
+    }
+}
+@media screen and (max-width: 630px) {
+    .rooms-and-apartments-contents__left {
+    margin: 89rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: -19rem auto 5rem auto;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -115rem auto 0rem auto;
+    }
+    .facilities-left__img {
+        height: 17%;
+    }
+    .best-apartments__heading {
+        margin-top: -30rem;
+        margin-bottom: 4rem;
+        font-size: 5rem;
+        width: 35rem;
+    }
+    .best-apartments__caption {
+        font-size: 1.2rem;
+        width: 20.2rem;
+        color: var(--secondary-color);
+        font-weight: 100;
+    }
+    .our-gallery {
+        margin-top: -8rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 7rem;
+    }
+    .our-gallery-mid-content__description, .our-gallery-mid-content__caption {
+        font-size: 1.2rem;
+    }
+    .our-gallery-mid-content__label {
+        width: 35%;
+    }
+    .our-gallery-mid-content {
+        width: 103%;
+    }
+    .our-gallery-right, .our-gallery-left {
+        width: 25%;
+        margin-top: 51.4rem;
+    }
+    .our-gallery-mid-content__caption {
+        margin-top: 3rem;
+    }
+    .bank-hotel-animation {
+        font-size: 6rem;
+    }
+    .get-in-touch__title {
+        font-size: 7rem;
+    }
+    .get-in-touch__number {
+        font-size: 3rem;
+        text-align: center;
+    }
+    .get-in-touch__content {
+        margin-top: 12rem;
+    }
+    .get-in-touch__find__links{
+        width: 100%;
+    }
+    .footer__content-aboutus, .footer__content-news, .footer__content-social {
+        width: 50%;
+        margin: 0 auto 5rem auto;
+        text-align: center;
+
+    }
+    .footer__content-social {
+        margin-bottom: 0;
+    }
+    .footer__content{
+        flex-direction: column;
+        
+    }
+    .footer__content-aboutus__description-copyright{
+        display: none;
+    }
+    .footer__content-aboutus__description-copyright2{
+        display: block;
+        font-size: 1rem;
+    }
+    .our-gallery-right__img1 {
+        width: 100%;
+        height: 25%;
+    }
+    .our-gallery-right__img2, .our-gallery-left-img1 {
+        width: 100%;
+        height: 20%;
+    }
+    .our-gallery-left-img2 {
+        width: 100%;
+        height: 25%;
+    }
+    .our-gallery-mid-content__img {
+        width: 100%;
+        height: 20%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .container {
+        width: 91%;
+    }
+    .home__img{
+        /* width: 52.6rem; */
+        height: 33rem;
+        object-fit: cover;
+        width: 100%;
+    }
+    .rooms-and-apartments__title{
+        font-size:  7rem;
+    }
+    .rooms-and-apartments-contents__left-button{
+        transform: scale(0.8) translateX(-9.5rem) !important;
+        margin-top: 50rem;
+    }
+    .rooms-and-apartments-contents__description{
+        margin-left: 17rem;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 29rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: -17rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -89rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__heading {
+        margin-top: 0rem;
+        margin-left: 0rem;
+    }
+    .facilities {
+        padding-bottom: 7rem;
+    }
+    .facilities-contents {
+        flex-wrap: wrap-reverse;
+    }
+    .facilities-right {
+        flex-basis: auto;
+    }
+    .facilities-left {
+        flex-basis: auto;
+        margin: -135rem auto;
+    }
+    .facilities-mid {
+        flex-basis: auto;
+        margin: 0 auto;
+    }
+    .facilities-mid__description {
+        margin-top: 42rem;
+        margin-bottom: 48rem;
+        /* text-align: left; */
+        margin-right: -3rem;
+    }
+    .facilities-left__text {
+        width: 18rem;
+        font-size: 1.4rem;
+        margin: 29rem auto 3rem auto;
+    }
+    .facilities-places__content-right__img {
+        width: 50%;
+    }
+    .facilities-places {
+        margin-top: -45rem;
+    }
+    .facilities-places__content-left-button {
+        transform: scale(0.7) ; /* !important */ 
+    }
+    .translate {
+        transform: scale(0.7) !important;
+    }
+    .facilities-places__content-right__img {
+        width: 100%;
+        margin-top: -105rem;
+    }
+    .facilities-places__content-mid {
+        margin-left: 9rem;
+        margin-top: 94rem;
+    }
+    .facilities-places__content-mid__number{
+        display: none;
+    }
+    .facilities-places__content-left-button {
+        margin-top: 91rem;
+    }
+    .ml--22 {
+        margin-left: 0rem !important;
+    }
+    .ml--18 {
+        margin-left: -4rem !important;
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text, .facilities-places__content-mid__number, .facilities-places__content-mid__heading {
+        font-size: 2.5rem;
+    }
+    .facilities-left__img {
+        height: 10%;
+        width: 100%;
+    }
+    .mt-75{
+        margin-top: 75rem !important;
+    }
+    .mt--85{
+        margin-top: -85rem !important;
+    }
+    .best-apartments__heading {
+        margin-top: -26rem;
+        margin-bottom: 2rem;
+        font-size: 4rem;
+        width: 33rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 6rem;
+    }
+    .our-gallery-mid-content__description, .our-gallery-mid-content__caption {
+        font-size: 1.1rem;
+    }
+    .our-gallery {
+        margin-top: -11rem;
+    }
+    .get-in-touch__find {
+        margin-bottom: 21rem;
+    }
+    .divider {
+        margin-top: 8rem;
+    }
+    .m-5-0 {
+        margin: 3rem 0px 3rem 0rem;
+        
+    }
+}
+
+@media screen and (max-width: 521px) {
+    .rooms-and-apartments-contents__img1 {
+        width: 67%;
+        height: 47%;
+        display: block;
+        margin: 0 auto;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -92rem auto 0rem auto;
+    }
+    .get-in-touch__find__link-rooms {
+        top: 6rem;
+    }
+    .home__description{
+        width: 28rem;
+    }
+    .home__button{
+        display: none;
+    }
+    .home__mb-line{
+        margin: -11rem auto 0rem auto;
+    }
+    .rooms-and-apartments__title{
+        font-size:  6rem;
+    }
+    .facilities-places__heading-img {
+        height: 100px;
+        width: 100px;
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text {
+        margin-left: 0rem;
+        font-size: 2rem;
+    }
+    .facilities-places__content-left-button {
+        margin-top: 79rem;
+    }
+    .facilities-places__content-mid {
+        max-width: 24.8rem;
+        margin-left: 9rem;
+        margin-top: 83rem;
+    }
+    .facilities-places__content-right__img {
+        width: 100%;
+        margin-top: -102rem;
+    }
+    .ml--22 {
+        margin-left: 0rem !important;
+    }
+    .ml--18 {
+        /* margin-left: -3rem !important; */
+    }
+    .best-apartments__heading {
+        margin-top: -22rem;
+        margin-bottom: 2rem;
+        font-size: 3rem;
+        width: 24rem;
+    }
+    .our-gallery {
+        margin-top: -13rem;
+    }
+    .bank-hotel-animation {
+        font-size: 5rem;
+        margin-top: 7rem;
+    }
+    .get-in-touch__title {
+        font-size: 5rem;
+    }
+    .get-in-touch__svg {
+        width: 25%;
+    }
+    .get-in-touch__find {
+        margin-bottom: 20rem;
+    }
+    .get-in-touch__find__links {
+        height: 6rem;
+    }
+    .get-in-touch__find__link {
+        height: 6rem;
+    }
+    .facilities-places {
+        margin-top: -50rem;
+    }
+    .rooms-and-apartments-contents__mid {
+    margin: -23rem auto 0rem auto;
+}
+    
+}
+
+@media screen and (max-width: 440px) {
+    /* .container{
+        overflow: hidden;
+    } */
+    .home__tags{
+    font-size: 1.3rem;
+    margin: -8rem auto 0rem auto;
+    width: 36rem;
+    text-align: center;
+    }
+    .home__title{
+        font-size: 8rem;
+    }
+    .rooms-and-apartments__title{
+        font-size:  5rem;
+    }
+    .rooms-and-apartments-contents__description {
+        margin-left: 9rem;
+        margin-top: 4rem;
+    }
+    .rooms-and-apartments-contents__left-button {
+        transform: scale(0.5) translateX(-9.5rem);
+        margin-left: -5rem;
+        margin-right: 5rem;
+        margin-top: 15rem;
+        scale: 0.7;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 44rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__mid {
+        margin: -10rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -73rem auto 0rem auto;
+    }
+    .facilities-mid__description {
+        margin-bottom: 52rem;
+
+        margin-top: 40rem;
+    }
+    .facilities-places__content-mid {
+        margin-top: 71rem;
+    }
+    .facilities-places__content-right__img {
+        margin-top: -88rem;
+    }
+
+    .facilities-places__content-left-button {
+        transform: scale(0.6); /* !important */
+        margin-top: 67rem !important;
+    }
+    .facilities-left__img {
+        height: 7%;
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+    }
+    .translate {
+        transform: scale(0.6) !important;
+    }
+    .ml--18 {
+        /* margin-left: -3rem !important; */
+    }
+    .facilities-places__heading-img {
+        height: 85px;
+        width: 85px;
+    }
+    .mt--75{
+        margin-top: -75rem !important;
+    }
+    .mt-58{
+        margin-top: 58rem !important;
+    }    
+    .facilities-places__content {
+        gap: 0rem;
+    }
+    .best-apartments__caption {
+        font-size: 1rem;
+        width: 16.9rem;
+    }
+    .best-apartments__heading {
+        margin-top: -20rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 5rem;
+    }
+    .our-gallery-mid-content__label {
+        width: 45%;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 41rem;
+    }
+    .our-gallery{
+        margin-top: -3rem;
+        height: 101rem;
+    }
+    .bank-hotel-animation {
+        font-size: 4rem;
+    }
+    .get-in-touch__title {
+        font-size: 4rem;
+    }
+    .home__title,
+    .aboutus-contents-left__title-span,
+    .aboutus-contents-left__title,
+    .facilities-mid__title-heading,
+    .our-gallery-mid-content__title
+    {
+        font-size: 6rem;
+    }
+    .facilities-places__heading-marker {
+        transform: scale(0.6);
+    }
+    .facilities-places__heading-marker__head-line {
+    width: 3.5rem;
+    }
+    details[open] > summary .facilities-places__heading-marker {
+        transform: rotate(90deg) translateX(1.5rem) scale(.6);
+    }
+    details[open] > summary .facilities-places__heading-marker .facilities-places__heading-marker__head-line {
+        width: 3.5rem;
+    }
+    .our-gallery-right__img1 {
+        width: 100%;
+        height: 20%;
+    }
+    .our-gallery-right__img2, .our-gallery-left-img1 {
+        width: 100%;
+        height: 17%;
+    }
+    .our-gallery-left-img2 {
+        width: 100%;
+        height: 20%;
+    }
+    .our-gallery-mid-content__img {
+        width: 100%;
+        height: 18%;
+    }
+
+    
+    /* .get-in-touch__title-touch {
+        margin-left: 14rem;
+    }
+    .get-in-touch__title-getin {
+        margin-right: -1rem;
+    } */
+
+    
+}
+@media screen and (max-width: 400px) {
+    .rooms-and-apartments__caption { 
+        font-size: 1.4rem;
+        margin: 2rem auto 0rem auto;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 41rem -18rem 0rem 10rem;
+    }
+    .rooms-and-apartments-contents__right-label {
+        top: 24rem;
+        left: 22rem;
+        transform: scale(0.5);
+    }
+    /* .home__title {
+        font-size: 7.5rem;
+    } */
+    .home__tags {
+        width: 33rem;
+        font-size: 1.2rem;
+    }
+    .aboutus-contents-left__description {
+        font-size: 1.3rem;
+    }
+    .rooms-and-apartments-contents__description {
+        font-size: 1.3rem;
+
+    }
+    .facilities-mid__description {
+        margin-bottom: 57rem;
+        margin-top: 32rem;
+        font-size: 1.3rem;
+
+    }
+    .facilities-places__content-mid__description {
+        font-size: 1.3rem;
+    }
+
+    
+    .facilities-places {
+        margin-top: -57rem;
+    }
+    .facilities-places__heading-img {
+        height: 50px;
+        width: 50px;
+    }
+    .facilities-places__content-right__img {
+        margin-top: -87rem;
+    }
+    .facilities-places__content-left-button {
+        transform: scale(0.5); /* !important */
+        margin-top: 65rem !important;
+    }
+    .translate {
+        transform: scale(0.5) translateY(0rem) !important;
+    }
+    .facilities-places__content {
+        gap: 0rem;
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text, .facilities-places__content-mid__number, .facilities-places__content-mid__heading {
+        /* font-size: 2rem; */
+    }
+    .best-apartments__heading {
+        margin-top: -18rem;
+        margin-bottom: 2rem;
+        font-size: 2rem;
+        width: 16rem;
+    }
+    .best-apartments__caption {
+        font-size: 0.8rem;
+        width: 13.5rem;
+    }
+    .our-gallery {
+        margin-top: 6rem;
+        height: 76rem;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 4.5rem;
+    }
+    .our-gallery-left, .our-gallery-right {
+        margin-top: 31rem;
+    }
+    .our-gallery-mid-content__description {
+        margin-bottom: 3rem;
+    }
+    .bank-hotel-animation {
+        font-size: 4rem;
+        margin-top: 5rem;
+    }
+    /* .ml--22 {
+        margin-left: 0rem !important;
+    }
+    .ml--18 {
+        margin-left: 2rem !important;
+    }
+    .facilities-places__heading-text {
+        font-size: 1.8rem;
+    } */
+    .facilities-places__content-right__img {
+        margin-top: -78rem;
+    }
+    .facilities-places__content-mid {
+        margin-top: 60rem;
+    }
+    .mt--75 {
+        margin-top: -63rem !important;
+    }
+    .mt-58 {
+        margin-top: 45rem !important;
+    }
+    .get-in-touch__svg {
+        margin-right: 7rem;
+        margin-top: -4rem;
+    }
+    .rooms-and-apartments-contents__right {
+        margin: -68rem auto 0rem auto;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .container {
+        width: 94.5%;
+    }
+    .home__title{
+    text-align: center;
+    margin: -8rem auto 9rem auto;
+    /* font-size: 7rem; */
+    max-width: 31rem;
+    }
+    .home__tags {
+        width: 35rem;
+    }
+    .home__description{
+        font-size: 1.2rem;
+        margin: 3rem auto 0rem auto;
+        max-width: 33rem;
+        text-align: center;
+    }
+    .home__mb-line{
+        margin: -9.5rem auto 5rem auto;
+    }
+    .home__tags{
+        font-size: 1.2rem;
+        margin: -8.5rem auto 3rem auto;
+    }
+    .home__img{
+        /* width: 33.5rem; */
+        height: 31rem;
+        object-fit: cover;
+    }
+    .main {
+        margin-top: -5rem;
+    }
+
+    .ml--18 {
+        margin-right: 0rem;
+    }
+
+    .mt-58 {
+        margin-top: 5rem !important;
+    }
+    .mt--75 {
+        margin-top: 2rem !important;
+    }
+    .facilities-places__content-left-button {
+        transform: scale(0.5) translateY(0rem);
+    }
+    .facilities-places__content-left-button:first-child {
+        transform: scale(0.5) translateY(42rem);
+    }
+    .translate {
+        transform: scale(0.5) translateY(0rem) !important;
+    }
+    .our-gallery-mid-content__title {
+        font-size: 4rem;
+    }
+    .facilities-places__content-right__img {
+        width: 80%;
+        margin-top: 2rem;
+        margin-bottom: 0;
+    }
+    .facilities-left__img {
+        height: 6%;
+    }
+    .facilities-places__content-mid {
+        margin-top: 5rem;
+    }
+    .facilities-places__content-mid__heading {
+        margin-bottom: 2rem;
+    }
+    .facilities-places__content-left-button {
+        margin-top: -25rem !important;
+    }
+    .rooms-and-apartments-contents__left {
+        margin: 38rem -18rem 0rem 10rem;
+    }
+    
+    
+}
+
+@media screen and (max-width: 366px) {
+    .container {
+        width: 94%;
+    }
+    .home__title,
+    .aboutus-contents-left__title-span,
+    .aboutus-contents-left__title,
+    .facilities-mid__title-heading,
+    .our-gallery-mid-content__title
+    {
+        font-size: 5rem;
+    }
+
+    .numname {
+        font-size: 1.3rem;
+        margin-bottom: 0;
+    }
+    .home__dashboard {
+        margin-bottom: 1rem;
+    }
+    .aboutus-contents-left__title {
+        margin-top: 1rem;
+    }
+    
+
+    .home__tags {
+        font-size: 1.2rem;
+        margin: -10rem auto 0rem auto;
+        width: 27rem;
+    }
+    .aboutus__img1 {
+        max-height: 312px;
+        margin: 20rem auto 0 auto;
+    }
+    .aboutus-contents-left {
+        margin-top: -45rem;
+        margin-bottom: -79rem;
+    }
+    .aboutus-contents-right {
+        margin-top: 35rem;
+    }
+    .get-in-touch__content {
+        margin-top: 5rem;
+    }
+    .get-in-touch__title-touch {
+        margin-left: 14rem;
+    }
+    .get-in-touch__title-getin {
+        margin-right: -2rem;
+    }
+    .get-in-touch__find {
+        margin-top: 5rem;
+        margin-bottom: 15rem;
+    }
+    .aboutus-contents-left__heading {
+        margin-top: 45rem;
+    }
+    .aboutus-contents-right__label {
+        top: 55rem;
+        right: 15rem;
+        transform: rotate(45deg);
+    }
+    .get-in-touch__svg {
+        margin-right: 6rem;
+        margin-top: -3rem;
+    }
+
+    .rooms-and-apartments {
+        padding-top: 5rem;
+        padding-bottom: 6rem;
+    }
+    .facilities-mid__title-star {
+        margin: -4rem 0rem 0rem 9rem;
+    }
+    .facilities-places {
+        margin-top: -58rem;
+    }
+    .our-gallery {
+        margin-top: 0rem;
+    }
+    .facilities-places__heading-number, .facilities-places__heading-text, .facilities-places__content-mid__number, .facilities-places__content-mid__heading {
+        font-size: 1.8rem;
+    }
+    .facilities-places__heading-marker__head-line {
+        width: 3rem;
+    }
+    details[open] > summary .facilities-places__heading-marker .facilities-places__heading-marker__head-line {
+        width: 3.facilities-places__content-left-buttonrem;
+    }
+    .mt-58 {
+        margin-top: 2.5rem !important;
+    }
+    .translate {
+        transform: scale(0.5) translateY(20rem) !important;
+    }
+    .facilities-places__content-left-button:first-child {
+        transform: scale(0.5) translateY(62rem);
+    }
+}
+
+@media screen and (max-width: 332px) {
+    .container {
+        width: 93%;
+    }
+    .home__title,
+    .aboutus-contents-left__title-span,
+    .aboutus-contents-left__title,
+    .facilities-mid__title-heading,
+    .our-gallery-mid-content__title,
+    .rooms-and-apartments__title,
+    .rooms-and-apartments-contents__heading
+    {
+        font-size: 3.7rem;
+    }
+
+    .home__tags {
+        max-width: 23rem;
+    }
+
+    .home__description{
+        max-width: 27rem;
+    }
+    .rooms-and-apartments-contents__right-label {
+        top: 25rem;
+        left: 18rem;
+        transform: scale(0.5);
+    }
+    .get-in-touch__title-touch {
+        margin-left: 8.5rem;
+    }
+    .rooms-and-apartments-contents__heading {
+        margin-left: 5rem;
+    }
+}
+
+@media screen and (max-width: 329px){
+    .facilities-places {
+        margin-top: -57rem;
+    }
+    
+    /* .facilities-mid {
+        margin-top: -77rem;
+    } */
+}

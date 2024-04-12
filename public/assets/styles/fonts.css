@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Helvetica Neue LT Std 55 Roman';
+    src: url("../fonts/Helvetica-Neue-LT-Std-55-Roman.otf");
+}
+@font-face {
+    font-family: 'Miracle';
+    src: url(../fonts/Miracle.otf);
+}
+@font-face {
+    font-family: 'Helvetica Neue LT Std 65 Medium';
+    src: url(../fonts/Helvetica-Neue-LT-Std-65-Medium.otf);
+}
+@font-face {
+    font-family: 'Helvetica Neue LT Std 56 Italic';
+    src: url(../fonts/Helvetica-Neue-LT-Std-56-Italic.otf);
+}
+/* @font-face {
+    font-family: "Raleway";
+    src: url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+} */
