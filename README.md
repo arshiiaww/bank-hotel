@@ -1,1 +1,1 @@
-# Bank hotel website made with Next.js
+Bank hotel website made with Next.js
