@@ -18,6 +18,10 @@ Bank Hotel contains 3 folders: app, components and public.
 - Rooms.jsx
 ### public
 - assets folder
-  - fonts
   - images
   - styles
+### Config and JSON files
+- jsonconfig.json
+- next.config.mjs
+- package-lock.json
+- package.json
