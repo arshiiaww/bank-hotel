@@ -1,4 +1,4 @@
-*UI components of Bank Hotel website belongs to [Andrew Vynarchyk](https://www.figma.com/@future2)*
+*UI components of Bank Hotel website belongs to [Andrew Vynarchyk](https://www.figma.com/@future2). This project is created exclusively as a portfolio piece.*
 ## Bank Hotel website made with Next.js
 This project is hosted on Vercel and is using Next.js app router.
 ## Project structure
