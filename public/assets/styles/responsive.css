@@ -412,6 +412,9 @@
 }
 
 @media screen and (max-width: 1024px) {
+    .menu__link {
+        font-size: 1.5rem;
+    }
     .get-in-touch__find__link-rooms {
         top: 9rem;
     }
@@ -520,7 +523,7 @@
 }
 .menu {
     position: absolute;
-    top: -40rem;
+    top: -46rem;
     right: 0;
     left: 0;
     justify-content: center;
