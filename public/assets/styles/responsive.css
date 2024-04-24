@@ -1417,7 +1417,9 @@
     }
     .m-5-0 {
         margin: 3rem 0px 3rem 0rem;
-        
+    }
+    .home__button{
+        display: none;
     }
 }
 
@@ -1440,9 +1442,7 @@
     .home__description{
         width: 28rem;
     }
-    .home__button{
-        display: none;
-    }
+    
     .home__mb-line{
         margin: -11rem auto 0rem auto;
     }
