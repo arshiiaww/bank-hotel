@@ -781,7 +781,7 @@
     .home__tags{
         font-size: 1.5rem;
         margin: -8rem auto 0rem auto;
-        width: 44rem;
+        width: 41rem;
         text-align: center;
     }
     .home__button {
@@ -1425,9 +1425,7 @@
     .home__button{
         display: none;
     }
-    .home__tags {
-       width: 35rem
-    }
+    
     .rooms-and-apartments-contents__img1 {
         width: 67%;
         height: 47%;
