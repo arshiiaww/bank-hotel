@@ -1418,12 +1418,13 @@
     .m-5-0 {
         margin: 3rem 0px 3rem 0rem;
     }
-    .home__button{
-        display: none;
-    }
+    
 }
 
 @media screen and (max-width: 521px) {
+    .home__button{
+        display: none;
+    }
     .home__tags {
        width: 35rem
     }
