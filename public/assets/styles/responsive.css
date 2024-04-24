@@ -1518,6 +1518,7 @@
     .home__tags{
        font-size: 1.3rem;
        margin: -8rem auto 0rem auto;
+       width: 35rem;
        text-align: center;
     }
     .home__title{
